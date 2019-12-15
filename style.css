@@ -22,10 +22,11 @@ body
 
 .instructions{
   text-align: left;
+  color: red;
 }
 
 h1{
-  color: "Green";
+  color: green;
 }
 
 @viewport {
