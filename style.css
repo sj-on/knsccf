@@ -1,0 +1,29 @@
+body
+{
+  font-family: "Arial";
+  background-color: #d2f8d2;
+}
+.top{
+  text-align: center;
+   text-decoration-color: #ff0000;
+}
+
+.indiscipline{
+  text-align: center;
+}
+
+.complaint{
+  text-align: center;
+}
+
+.main{
+  text-align: center;
+}
+
+.instructions{
+  text-align: left;
+}
+
+h1{
+  color: "Green";
+}
