@@ -33,11 +33,6 @@ h1{
 h3{
   color: #3366ff;
 }
-
-#butt{
-  background-color: #e7e7e7;
-  color: black;
-}
 @viewport {
   width: device-width ;
   zoom: 1.0 ;
