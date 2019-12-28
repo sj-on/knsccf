@@ -23,10 +23,9 @@ body
   margin-right: auto;
   margin-bottom: 15px;
   margin-top: 20px;
-  padding-top: 15px;
-  padding-bottom: 20px;
+  padding: 15px;
   background: #ffffff;
-  width: 75%;
+  width: 60%;
 }
 
 .instructions{
