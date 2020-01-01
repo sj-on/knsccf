@@ -1,5 +1,5 @@
   # KNSCCF Login Page
-  [This website is live](https://heuristic-keller-be83b3.netlify.com/)
+  [This Website is Alive](http://knsc.cf)
   
   __Developed by__ **Samhita Joshi**
 
